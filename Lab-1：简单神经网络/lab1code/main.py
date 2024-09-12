@@ -102,8 +102,8 @@ if __name__ == '__main__':
     evaluate(model, test_images, test_labels)
 
     # Save weight parameters
-    np.save('./weights/who.npy', model.who)
-    np.save('./weights/whi.npy', model.wih)
+    np.save('./weights/who.npy', model.wh5o)
+    np.save('./weights/whi.npy', model.wih1)
 
     print("Done.")
 
