@@ -64,7 +64,7 @@ def train(net, features, labels):
 
             # print loss
             if (i + 1) % 5000 == 0:
-                print("Epoch {:05d} | Loss {:.4f}".format(e, loss / 1000))
+                print("Epoch {:05d} | Loss {:.4f}".format(e + 1, loss / 1000))
                 loss = 0
 
         # evaluate the model using training set
@@ -102,8 +102,12 @@ if __name__ == '__main__':
     evaluate(model, test_images, test_labels)
 
     # Save weight parameters
-    np.save('./weights/who.npy', model.wh5o)
-    np.save('./weights/whi.npy', model.wih1)
+    np.save('./weights/wih1.npy', model.wih1)
+    np.save('./weights/wh1h2.npy', model.wh1h2)
+    np.save('./weights/wh2h3.npy', model.wh2h3)
+    np.save('./weights/wh3h4.npy', model.wh3h4)
+    np.save('./weights/wh4h5.npy', model.wh4h5)
+    np.save('./weights/wh5o.npy', model.wh5o)
 
     print("Done.")
 
