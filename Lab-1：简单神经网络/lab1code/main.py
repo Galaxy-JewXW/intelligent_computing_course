@@ -42,7 +42,7 @@ def train(net, features, labels):
     :return: None
     """
     # epochs is the number of times the training data set is used for training
-    epochs = 2
+    epochs = 5
 
     for e in range(epochs):
         # go through all records in the training data set
@@ -85,7 +85,7 @@ if __name__ == '__main__':
     output_nodes = 10
 
     # learning rate
-    learning_rate = 0.1
+    learning_rate = 0.00001
 
     # create instance of neural network
     model = neuralNetwork(input_nodes, hidden_nodes, output_nodes, learning_rate)
