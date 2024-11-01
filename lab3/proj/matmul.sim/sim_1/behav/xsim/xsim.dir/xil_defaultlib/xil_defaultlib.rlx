@@ -1,0 +1,8 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+D:/20251/zhinengjisuan/lab3/proj/matmul.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+D:/20251/zhinengjisuan/lab3/rtl/MAC.v,1730430748,verilog,,D:/20251/zhinengjisuan/lab3/rtl/Multiply_8x8.v,,MAC,,,,,,,,
+D:/20251/zhinengjisuan/lab3/rtl/Multiply_8x8.v,1634878159,verilog,,D:/20251/zhinengjisuan/lab3/tb/Multiply_8x8_tb.v,,Multiply_8x8,,,,,,,,
+D:/20251/zhinengjisuan/lab3/tb/Multiply_8x8_tb.v,1634882206,verilog,,,,Multiply_8x8_tb,,,,,,,,

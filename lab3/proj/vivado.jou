@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Fri Nov  1 13:54:09 2024
+# Process ID: 15060
+# Current directory: D:/20251/zhinengjisuan/lab3/proj
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent13288 D:\20251\zhinengjisuan\lab3\proj\matmul.xpr
+# Log file: D:/20251/zhinengjisuan/lab3/proj/vivado.log
+# Journal file: D:/20251/zhinengjisuan/lab3/proj\vivado.jou
+#-----------------------------------------------------------
+start_guioopen_project D:/20251/zhinengjisuan/lab3/proj/matmul.xpruupdate_compile_order -fileset sources_1launch_simulation
+open_wave_config D:/20251/zhinengjisuan/lab3/proj/Multiply_8x8_tb_behav.wcfg
+source Multiply_8x8_tb.tcl
+run all

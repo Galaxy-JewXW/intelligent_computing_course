@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Multiply_8x8_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Multiply_8x8_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="1053833fs"></ZoomStartTime>
+      <ZoomEndTime time="1319234fs"></ZoomEndTime>
+      <Cursor1Time time="1275000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="129"></NameColumnWidth>
+      <ValueColumnWidth column_width="72"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="52" />
+   <wvobject fp_name="/Multiply_8x8_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/fvalid0" type="logic">
+      <obj_property name="ElementShortName">fvalid0</obj_property>
+      <obj_property name="ObjectShortName">fvalid0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/fdata0" type="array">
+      <obj_property name="ElementShortName">fdata0[7:0]</obj_property>
+      <obj_property name="ObjectShortName">fdata0[7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/fvalid1" type="logic">
+      <obj_property name="ElementShortName">fvalid1</obj_property>
+      <obj_property name="ObjectShortName">fvalid1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/fdata1" type="array">
+      <obj_property name="ElementShortName">fdata1[7:0]</obj_property>
+      <obj_property name="ObjectShortName">fdata1[7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/fvalid2" type="logic">
+      <obj_property name="ElementShortName">fvalid2</obj_property>
+      <obj_property name="ObjectShortName">fvalid2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/fdata2" type="array">
+      <obj_property name="ElementShortName">fdata2[7:0]</obj_property>
+      <obj_property name="ObjectShortName">fdata2[7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/fvalid3" type="logic">
+      <obj_property name="ElementShortName">fvalid3</obj_property>
+      <obj_property name="ObjectShortName">fvalid3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/fdata3" type="array">
+      <obj_property name="ElementShortName">fdata3[7:0]</obj_property>
+      <obj_property name="ObjectShortName">fdata3[7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/fvalid4" type="logic">
+      <obj_property name="ElementShortName">fvalid4</obj_property>
+      <obj_property name="ObjectShortName">fvalid4</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/fdata4" type="array">
+      <obj_property name="ElementShortName">fdata4[7:0]</obj_property>
+      <obj_property name="ObjectShortName">fdata4[7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/fvalid5" type="logic">
+      <obj_property name="ElementShortName">fvalid5</obj_property>
+      <obj_property name="ObjectShortName">fvalid5</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/fdata5" type="array">
+      <obj_property name="ElementShortName">fdata5[7:0]</obj_property>
+      <obj_property name="ObjectShortName">fdata5[7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/fvalid6" type="logic">
+      <obj_property name="ElementShortName">fvalid6</obj_property>
+      <obj_property name="ObjectShortName">fvalid6</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/fdata6" type="array">
+      <obj_property name="ElementShortName">fdata6[7:0]</obj_property>
+      <obj_property name="ObjectShortName">fdata6[7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/fvalid7" type="logic">
+      <obj_property name="ElementShortName">fvalid7</obj_property>
+      <obj_property name="ObjectShortName">fvalid7</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/fdata7" type="array">
+      <obj_property name="ElementShortName">fdata7[7:0]</obj_property>
+      <obj_property name="ObjectShortName">fdata7[7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/wvalid0" type="logic">
+      <obj_property name="ElementShortName">wvalid0</obj_property>
+      <obj_property name="ObjectShortName">wvalid0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/wdata0" type="array">
+      <obj_property name="ElementShortName">wdata0[7:0]</obj_property>
+      <obj_property name="ObjectShortName">wdata0[7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/wvalid1" type="logic">
+      <obj_property name="ElementShortName">wvalid1</obj_property>
+      <obj_property name="ObjectShortName">wvalid1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/wdata1" type="array">
+      <obj_property name="ElementShortName">wdata1[7:0]</obj_property>
+      <obj_property name="ObjectShortName">wdata1[7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/wvalid2" type="logic">
+      <obj_property name="ElementShortName">wvalid2</obj_property>
+      <obj_property name="ObjectShortName">wvalid2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/wdata2" type="array">
+      <obj_property name="ElementShortName">wdata2[7:0]</obj_property>
+      <obj_property name="ObjectShortName">wdata2[7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/wvalid3" type="logic">
+      <obj_property name="ElementShortName">wvalid3</obj_property>
+      <obj_property name="ObjectShortName">wvalid3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/wdata3" type="array">
+      <obj_property name="ElementShortName">wdata3[7:0]</obj_property>
+      <obj_property name="ObjectShortName">wdata3[7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/wvalid4" type="logic">
+      <obj_property name="ElementShortName">wvalid4</obj_property>
+      <obj_property name="ObjectShortName">wvalid4</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/wdata4" type="array">
+      <obj_property name="ElementShortName">wdata4[7:0]</obj_property>
+      <obj_property name="ObjectShortName">wdata4[7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/wvalid5" type="logic">
+      <obj_property name="ElementShortName">wvalid5</obj_property>
+      <obj_property name="ObjectShortName">wvalid5</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/wdata5" type="array">
+      <obj_property name="ElementShortName">wdata5[7:0]</obj_property>
+      <obj_property name="ObjectShortName">wdata5[7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/wvalid6" type="logic">
+      <obj_property name="ElementShortName">wvalid6</obj_property>
+      <obj_property name="ObjectShortName">wvalid6</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/wdata6" type="array">
+      <obj_property name="ElementShortName">wdata6[7:0]</obj_property>
+      <obj_property name="ObjectShortName">wdata6[7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/wvalid7" type="logic">
+      <obj_property name="ElementShortName">wvalid7</obj_property>
+      <obj_property name="ObjectShortName">wvalid7</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/wdata7" type="array">
+      <obj_property name="ElementShortName">wdata7[7:0]</obj_property>
+      <obj_property name="ObjectShortName">wdata7[7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/num_valid_ori" type="logic">
+      <obj_property name="ElementShortName">num_valid_ori</obj_property>
+      <obj_property name="ObjectShortName">num_valid_ori</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/num_ori" type="array">
+      <obj_property name="ElementShortName">num_ori[31:0]</obj_property>
+      <obj_property name="ObjectShortName">num_ori[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/valid_o0" type="logic">
+      <obj_property name="ElementShortName">valid_o0</obj_property>
+      <obj_property name="ObjectShortName">valid_o0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/data_o0" type="array">
+      <obj_property name="ElementShortName">data_o0[31:0]</obj_property>
+      <obj_property name="ObjectShortName">data_o0[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/valid_o1" type="logic">
+      <obj_property name="ElementShortName">valid_o1</obj_property>
+      <obj_property name="ObjectShortName">valid_o1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/data_o1" type="array">
+      <obj_property name="ElementShortName">data_o1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">data_o1[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/valid_o2" type="logic">
+      <obj_property name="ElementShortName">valid_o2</obj_property>
+      <obj_property name="ObjectShortName">valid_o2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/data_o2" type="array">
+      <obj_property name="ElementShortName">data_o2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">data_o2[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/valid_o3" type="logic">
+      <obj_property name="ElementShortName">valid_o3</obj_property>
+      <obj_property name="ObjectShortName">valid_o3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/data_o3" type="array">
+      <obj_property name="ElementShortName">data_o3[31:0]</obj_property>
+      <obj_property name="ObjectShortName">data_o3[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/valid_o4" type="logic">
+      <obj_property name="ElementShortName">valid_o4</obj_property>
+      <obj_property name="ObjectShortName">valid_o4</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/data_o4" type="array">
+      <obj_property name="ElementShortName">data_o4[31:0]</obj_property>
+      <obj_property name="ObjectShortName">data_o4[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/valid_o5" type="logic">
+      <obj_property name="ElementShortName">valid_o5</obj_property>
+      <obj_property name="ObjectShortName">valid_o5</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/data_o5" type="array">
+      <obj_property name="ElementShortName">data_o5[31:0]</obj_property>
+      <obj_property name="ObjectShortName">data_o5[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/valid_o6" type="logic">
+      <obj_property name="ElementShortName">valid_o6</obj_property>
+      <obj_property name="ObjectShortName">valid_o6</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/data_o6" type="array">
+      <obj_property name="ElementShortName">data_o6[31:0]</obj_property>
+      <obj_property name="ObjectShortName">data_o6[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/valid_o7" type="logic">
+      <obj_property name="ElementShortName">valid_o7</obj_property>
+      <obj_property name="ObjectShortName">valid_o7</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiply_8x8_tb/data_o7" type="array">
+      <obj_property name="ElementShortName">data_o7[31:0]</obj_property>
+      <obj_property name="ObjectShortName">data_o7[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>
